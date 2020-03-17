@@ -39,3 +39,7 @@ $ rails server
 
 詳しくは、[*Ruby on Rails チュートリアル*](https://railstutorial.jp/)
 を参考にしてください。
+
+# Bookmark
+リスト 3.4: helloアクションをApplicationコントローラーに追加する
+https://railstutorial.jp/chapters/static_pages?version=5.1#cha-static_pages
