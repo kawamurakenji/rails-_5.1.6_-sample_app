@@ -41,5 +41,5 @@ $ rails server
 を参考にしてください。
 
 # Bookmark
-リスト 3.4: helloアクションをApplicationコントローラーに追加する
-https://railstutorial.jp/chapters/static_pages?version=5.1#cha-static_pages
+リスト 3.31: タイトルにERBを使ったHomeページのビュー
+https://railstutorial.jp/chapters/static_pages?version=5.1#sec-slightly_dynamic_pages
